@@ -1,0 +1,11 @@
+C:\Users\milan\source\repos\Waterland\bin\Debug\Waterland.exe.config
+C:\Users\milan\source\repos\Waterland\bin\Debug\Waterland.exe
+C:\Users\milan\source\repos\Waterland\bin\Debug\Waterland.pdb
+C:\Users\milan\source\repos\Waterland\bin\Debug\Waterland.xml
+C:\Users\milan\source\repos\Waterland\obj\Debug\Waterland.vbprojAssemblyReference.cache
+C:\Users\milan\source\repos\Waterland\obj\Debug\Waterland.Resources.resources
+C:\Users\milan\source\repos\Waterland\obj\Debug\Waterland.vbproj.GenerateResource.cache
+C:\Users\milan\source\repos\Waterland\obj\Debug\Waterland.vbproj.CoreCompileInputs.cache
+C:\Users\milan\source\repos\Waterland\obj\Debug\Waterland.exe
+C:\Users\milan\source\repos\Waterland\obj\Debug\Waterland.xml
+C:\Users\milan\source\repos\Waterland\obj\Debug\Waterland.pdb
