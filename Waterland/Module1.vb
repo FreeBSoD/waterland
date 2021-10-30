@@ -53,7 +53,7 @@ Module Module1
             Main()
         Else
             Console.WriteLine("King: Okay! " & players & " people it is. ")
-            Console.WriteLine("kign: The person who earns the most money in 20 rounds. ")
+            Console.WriteLine("King: The person who earns the most money in 20 rounds. ")
             Console.WriteLine("Wins my crown.")
             For u As Integer = 0 To players - 1
                 moreCash.Add(0)
